@@ -1,0 +1,10 @@
+1. cree la carpeta
+2. agregué los archivos a dicha carpeta.
+3. cree el repositorio en mi cuenta de github y copié el link del repositorio
+4. abri git CMD
+5. en la consola inicié el repositorio con 'git init'
+6. luego preparé los archivos para subirlos con 'git add -A'
+7. comenté dichos archivos para la subida con 'git commit -m "basic_repo"'
+8. revisé el estado de los archivos con 'git status'
+9. luego conecté mi repositorio local con mi repositorio remoto con 'git remote add origin https://github.com/jsilva16/basic_repo.git'
+10. subi los archivos de mi repositorio local a mi repositorio remoto con 'git push origin master'
